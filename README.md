@@ -1,4 +1,4 @@
 # HackerEarth-solutions
 Contains solutions to HackerEarth questions
 
-I request others to contribute
+Please push request to contribute
