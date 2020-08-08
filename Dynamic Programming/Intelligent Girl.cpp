@@ -11,9 +11,9 @@ int main()
     for(i=l-2;i>=0;i--)
     {
         if(int(s.at(i))%2==0)
-        a[i]=a[i+1]+1;
+            a[i]=a[i+1]+1;
         else
-        a[i]=a[i+1];
+            a[i]=a[i+1];
     }
     for(i=0;i<l;i++)
     cout<<a[i]<<" ";
